@@ -53,12 +53,12 @@ article {
 }
 
 .image-bg-fluid-height {
-	background: url('../images/allotmentNWsky.jpg') no-repeat center -700px scroll;
+	background: url('../images/AllotmentNWsky.jpg') no-repeat center -700px scroll;
     padding: 100px 0;
 }
 
 .image-bg-fixed-height {
-	background: url('../images/allotmentNWsky.jpg') no-repeat center -700px scroll;
+	background: url('../images/AllotmentNWsky.jpg') no-repeat center -700px scroll;
     height: 450px;
 }
 

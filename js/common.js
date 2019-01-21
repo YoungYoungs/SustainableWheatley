@@ -1,9 +1,9 @@
 $(function() {
     var dates = [
-      {date:new Date(2018, 10, 13), label:"October 13<sup>th</sup>"},
-      {date:new Date(2018, 6, 21), label:"July 21<sup>st</sup>"},
-      {date:new Date(2018, 3, 21), label:"April 21<sup>st</sup>"},
-      {date:new Date(2018, 0, 27), label:"January 27<sup>th</sup>"}
+      {date:new Date(2019, 8, 12), label:"October 12<sup>th</sup>"},
+      {date:new Date(2019, 6, 12), label:"July 12<sup>th</sup>"},
+      {date:new Date(2019, 3, 20), label:"April 20<sup>th</sup>"},
+      {date:new Date(2019, 0, 26), label:"January 26<sup>th</sup>"}
     ]
     var label = "";
     var now = Date.now();

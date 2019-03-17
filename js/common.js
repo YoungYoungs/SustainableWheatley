@@ -2,7 +2,7 @@ $(function() {
     var dates = [
       {date:new Date(2019, 8, 12), label:"October 12<sup>th</sup>"},
       {date:new Date(2019, 6, 12), label:"July 12<sup>th</sup>"},
-      {date:new Date(2019, 3, 20), label:"April 20<sup>th</sup>"},
+      {date:new Date(2019, 3, 27), label:"April 27<sup>th</sup>"},
       {date:new Date(2019, 0, 26), label:"January 26<sup>th</sup>"}
     ]
     var label = "";

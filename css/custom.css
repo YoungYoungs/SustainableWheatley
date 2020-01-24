@@ -183,6 +183,9 @@ height: 100%;
 .pdf {
     font-size: x-large;
 }
+.pdf.small {
+    font-size: large;
+}
 .pdf span {
     padding-right: 1em;
 }
